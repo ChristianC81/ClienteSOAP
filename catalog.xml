@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/VistaClienteSOAP/serviciosSOAP?Tester" uri="src/conf/xml-resources/web-service-references/serviciosSOAP_Tester/wsdl/localhost_8080/VistaClienteSOAP/serviciosSOAP.tester"/>
+    <system systemId="http://localhost:8080/VistaClienteSOAP/serviciosSOAP?WSDL" uri="src/conf/xml-resources/web-service-references/serviciosSOAP_1/wsdl/localhost_8080/VistaClienteSOAP/serviciosSOAP.wsdl"/>
+    <system systemId="http://localhost:8080/VistaClienteSOAP/serviciosSOAP?xsd=1" uri="src/conf/xml-resources/web-service-references/serviciosSOAP_1/wsdl/localhost_8080/VistaClienteSOAP/serviciosSOAP.xsd_1.xsd"/>
+</catalog>
